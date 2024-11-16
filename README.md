@@ -1,9 +1,19 @@
   ![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/598b6037-7090-413a-bdef-7cc06c54091b)
 
-<h1 align="center">Hi 👋, I'm RiziRajput</h1>
-<h3 align="center">A passionate Data Scientist.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizirajput&label=Profile%20views&color=0e75b6&style=flat" alt="rizirajput" /> </p>
+<h1 align="center">Hi there! 👋 I’m Rizwan Majeed</h1>
+<h4 align="center">🌟 Final Year BS Computer Science Student<br>
+🎓 University of Engineering and Technology, Lahore<br></h4>
+
+<h6>I am a Data Science enthusiast passionate about turning data into actionable insights. My journey includes working on projects that leverage machine learning, AI, and statistical modeling to solve real-world problems. I am currently exploring advanced analytics and innovative data-driven solutions.</h6>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rizirajput&label=Profile%20views&color=0e75b6&style=flat" alt="rizirajput" />
+</p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/RiziRajput](https://github.com/RiziRajput)
 
@@ -11,15 +21,13 @@
 
 - 📫 How to reach me **rizwanmajeed489@gmail.com**
 
-- 📄 Know about my experiences [ ]( )
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/rizwan-majeed-dev/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rizwan-majeed-dev/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100091789609116&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100091789609116&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rizi_543?igsh=mxnybm9ydncxdzv3za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rizi_543?igsh=mxnybm9ydncxdzv3za==" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@rm-vg2rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@rm-vg2rb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/whorizwanmajeed/?utm_source=ig_web_button_share_sheet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/rizi_543?igsh=mxnybm9ydncxdzv3za==](https://www.instagram.com/whorizwanmajeed/?utm_source=ig_web_button_share_sheet)" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@rm-vg2rb" target="blank"><img align="center" src="  alt="www.youtube.com/@rm-vg2rb" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/rizwan543/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rizwan543/" height="30" width="40" /></a>
 </p>
 
