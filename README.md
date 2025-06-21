@@ -32,7 +32,7 @@
   <a href="https://www.facebook.com/profile.php?id=100091789609116" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/whorizwanmajeed/" target="_blank">
+  <a href="https://www.instagram.com/jani._543/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@rm-vg2rb" target="_blank">
