@@ -1,155 +1,156 @@
-  ![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/598b6037-7090-413a-bdef-7cc06c54091b)
+ # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rizwan%20Majeed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35)</div>
 
-<h1 align="center" style="color: blue; font-family: Arial, sans-serif;">
-  Hi there! 👋 I’m Rizwan Majeed
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Backend+Architecture+Specialist+%E2%9A%A1;Problem+Solver+%26+Code+Craftsman+%F0%9F%92%8E" alt="Typing SVG" />
+</div>
 
-<h4 align="center">🌟 Final Year BS Computer Science Student<br>
-🎓 University of Engineering and Technology, Lahore<br></h4>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300"/>
+</div>
 
-<h6>I am a Data Science enthusiast passionate about turning data into actionable insights. My journey includes working on projects that leverage machine learning, AI, and statistical modeling to solve real-world problems. I am currently exploring advanced analytics and innovative data-driven solutions.</h6>
+## 🎯 About Me
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+```javascript
+const rizwan = {
+    name: "Rizwan Majeed",
+    role: "Software Engineer",
+    education: "BS Computer Science - UET Lahore",
+    location: "Lahore, Pakistan",
+    interests: ["Full-Stack Development", "AI/ML", "Backend Systems"],
+    currentFocus: "Building scalable applications & intelligent automation",
+    motto: "Code with passion, solve with purpose! 💫"
+};
+```
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rizirajput&label=Profile%20views&color=0e75b6&style=flat" alt="rizirajput" />
-</p>
+<br clear="right"/>
 
+## 🔥 My Arsenal
 
-- 👨‍💻 All of my projects are available at [https://github.com/RiziRajput](https://github.com/RiziRajput)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,r,html,css,react,nodejs,django,flask,bootstrap,git,github,vscode,ai,tensorflow,pytorch" />
+</div>
 
-- 💬 Ask me about **Data Science, Data Analyst, Developing Models, Machine Learning, Artificial Intellegience**
+### 🐍 Python Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+</div>
 
-- 📫 How to reach me **rizwanmajeed489@gmail.com**
+## 🌟 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧠 Attorney Assistant</h3>
+        <div align="center">
+          <a href="https://github.com/RiziRajput/attorney-assistant" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizirajput&repo=attorney-assistant&theme=tokyonight" alt="Attorney Assistant" />
+          </a>
+          <br>
+          <p><b>AI-Powered Legal Document Analysis</b></p>
+          <p>🔹 NLP & Machine Learning<br>🔹 Document Summarization<br>🔹 Legal Insights</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 Customer Churn Prediction</h3>
+        <div align="center">
+          <a href="https://github.com/RiziRajput/churn-prediction" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizirajput&repo=churn-prediction&theme=tokyonight" alt="Churn Prediction" />
+          </a>
+          <br>
+          <p><b>Data-Driven Business Intelligence</b></p>
+          <p>🔹 Random Forest Algorithm<br>🔹 Interactive Dashboards<br>🔹 Predictive Analytics</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌐 Social Media Platform</h3>
+        <div align="center">
+          <a href="https://github.com/RiziRajput/social-platform" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizirajput&repo=social-platform&theme=tokyonight" alt="Social Platform" />
+          </a>
+          <br>
+          <p><b>Full-Stack MERN Application</b></p>
+          <p>🔹 React Frontend<br>🔹 Node.js Backend<br>🔹 Real-time Features</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎮 AI Snake Game</h3>
+        <div align="center">
+          <a href="https://github.com/RiziRajput/ai-snake" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizirajput&repo=ai-snake&theme=tokyonight" alt="AI Snake" />
+          </a>
+          <br>
+          <p><b>Reinforcement Learning Game</b></p>
+          <p>🔹 Deep Q-Learning<br>🔹 Neural Networks<br>🔹 Game AI</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizirajput&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizirajput&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizirajput&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizirajput&custom_title=Rizwan's%20Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rizirajput&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
   <a href="https://www.linkedin.com/in/rizwan-majeed-dev/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn - Rizwan Majeed" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=100091789609116" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook - Rizwan Majeed" height="30" width="40" />
+  <a href="mailto:rizwanmajeed489@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/whorizwanmajeed/?utm_source=ig_web_button_share_sheet" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram - Rizwan Majeed" height="30" width="40" />
+  <a href="https://github.com/RiziRajput" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@rm-vg2rb" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-         alt="YouTube - Rizwan Majeed" height="30" width="40" />
-  </a>
-
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/rizwan543/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-         alt="LeetCode - Rizwan Majeed" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-</p>
+  <a href="https://www.youtube.com/@rm-vg2rb" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<!-- LANGUAGES -->
- 
-<p align="left">
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+</div>
 
-<!-- FRAMEWORKS AND TOOLS -->
- 
-<p align="left">
-  <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <!-- Flutter -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <!-- MATLAB -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  </a>
-  <!-- Mocha -->
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40" />
-  </a>
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+learning%2C+always+growing!+%F0%9F%8C%B1" alt="Footer Typing SVG" />
+</div>
 
-<!-- DATABASES -->
- 
-<p align="left">
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <!-- Microsoft SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40" />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <!-- Oracle -->
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
-  </a>
-</p>
-<!-- GitHub Stats -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizirajput&show_icons=true&locale=en&layout=compact" alt="rizirajput" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizirajput&show_icons=true&locale=en" alt="rizirajput" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizirajput&" alt="rizirajput" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rizirajput&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+</div>
