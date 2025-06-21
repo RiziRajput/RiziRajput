@@ -1,5 +1,8 @@
  
-
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/598b6037-7090-413a-bdef-7cc06c54091b" alt="Banner" width="100%" />
+</p>
 <!-- Typing Animation Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7A&center=true&vCenter=true&width=1000&lines=Hi+there!+I%E2%80%99m+Rizwan+Majeed;Software+Engineer+%7C+Full+Stack+Developer+%7C+Tech+Enthusiast;Always+learning,+building,+and+sharing..." alt="Typing SVG" />
