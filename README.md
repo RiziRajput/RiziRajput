@@ -1,7 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/598b6037-7090-413a-bdef-7cc06c54091b" alt="Banner" width="100%" />
-</p>
+ 
 
 <!-- Typing Animation Intro -->
 <p align="center">
@@ -10,11 +7,11 @@
 
 <!-- Bio -->
 <h4 align="center">
-  🎓 BS Computer Science Graduate — University of Engineering and Technology, Lahore
+  🎓 BS Computer Science Graduate —  UET Lahore
 </h4>
 
 <p align="center">
-  A passionate Software Engineer who loves crafting full-stack applications, exploring emerging technologies, and contributing to impactful solutions. Whether it’s front-end flair or back-end logic — I enjoy turning ideas into scalable digital experiences.
+  A passionate Software Engineer who loves crafting full-stack applications, exploring emerging technologies, and contributing to impactful solutions. Whether it’s front-end flair or back-end logic I enjoy turning ideas into scalable digital experiences.
 </p>
 
 <!-- Trophies -->
@@ -118,7 +115,7 @@
 
 ---
 
-### ✨ Crafted Signature
+ 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7A&center=true&vCenter=true&width=800&lines=Crafted+with+💙+by+Rizwan+Majeed;Follow+my+journey,+one+commit+at+a+time..." alt="Signature Typing" />
